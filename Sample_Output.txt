@@ -1,0 +1,668 @@
+
+Hello! This is an issue tracking program
+that creates new tickets and locates existing tickets
+You can also check each list of tickets.
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 0
+Invalid Option - Try Again!
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 100
+Invalid Option - Try Again!
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 1
+Enter the ticket number (integer) : 1
+The company identifier (characters) : GC
+Code that indicates the type of problem (characters) : PrintJam
+Code that indicates the relative level of urgency (integers from 1 to 4) : 1
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 1
+Enter the ticket number (integer) : 2
+The company identifier (characters) : GC
+Code that indicates the type of problem (characters) : Keyboard
+Code that indicates the relative level of urgency (integers from 1 to 4) : 3
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 1
+Enter the ticket number (integer) : 3
+The company identifier (characters) : GC
+Code that indicates the type of problem (characters) : Mouse
+Code that indicates the relative level of urgency (integers from 1 to 4) : 2
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 1
+Enter the ticket number (integer) : 4
+The company identifier (characters) : GC
+Code that indicates the type of problem (characters) : laptop
+Code that indicates the relative level of urgency (integers from 1 to 4) : 1
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 4
+The names on the list are:
+
+4
+GC
+laptop
+1
+new
+unassigned
+
+3
+GC
+Mouse
+2
+new
+unassigned
+
+2
+GC
+Keyboard
+3
+new
+unassigned
+
+1
+GC
+PrintJam
+1
+new
+unassigned
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 6
+The names on the list are:
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 2
+Enter the name of the technician : Mingi
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 4
+The names on the list are:
+
+3
+GC
+Mouse
+2
+new
+unassigned
+
+2
+GC
+Keyboard
+3
+new
+unassigned
+
+1
+GC
+PrintJam
+1
+new
+unassigned
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+4
+GC
+laptop
+1
+assigned
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 2
+Enter the name of the technician : Mingi
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 4
+The names on the list are:
+
+3
+GC
+Mouse
+2
+new
+unassigned
+
+2
+GC
+Keyboard
+3
+new
+unassigned
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+1
+GC
+PrintJam
+1
+assigned
+Mingi
+
+4
+GC
+laptop
+1
+assigned
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 2
+Enter the name of the technician : Mingi
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 4
+The names on the list are:
+
+2
+GC
+Keyboard
+3
+new
+unassigned
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+3
+GC
+Mouse
+2
+assigned
+Mingi
+
+1
+GC
+PrintJam
+1
+assigned
+Mingi
+
+4
+GC
+laptop
+1
+assigned
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 2
+Enter the name of the technician : Mingi
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 4
+The names on the list are:
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+2
+GC
+Keyboard
+3
+assigned
+Mingi
+
+3
+GC
+Mouse
+2
+assigned
+Mingi
+
+1
+GC
+PrintJam
+1
+assigned
+Mingi
+
+4
+GC
+laptop
+1
+assigned
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 6
+The names on the list are:
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 3
+Enter the ticket number to complete : 2
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+3
+GC
+Mouse
+2
+assigned
+Mingi
+
+1
+GC
+PrintJam
+1
+assigned
+Mingi
+
+4
+GC
+laptop
+1
+assigned
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 6
+The names on the list are:
+
+2
+GC
+Keyboard
+3
+completed
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 3
+Enter the ticket number to complete : 3
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+1
+GC
+PrintJam
+1
+assigned
+Mingi
+
+4
+GC
+laptop
+1
+assigned
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 6
+The names on the list are:
+
+3
+GC
+Mouse
+2
+completed
+Mingi
+
+2
+GC
+Keyboard
+3
+completed
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 3
+Enter the ticket number to complete : 1
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 3
+Enter the ticket number to complete : 4
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 5
+The names on the list are:
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 6
+The names on the list are:
+
+4
+GC
+laptop
+1
+completed
+Mingi
+
+1
+GC
+PrintJam
+1
+completed
+Mingi
+
+3
+GC
+Mouse
+2
+completed
+Mingi
+
+2
+GC
+Keyboard
+3
+completed
+Mingi
+
+End of List
+
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 2
+There is no any new tickets.
+
+MENU : Enter the number
+1. Create a new tracking ticket
+2. Assign a new ticket to a technician for handling
+3. Mark a ticket complete
+4. Print a list of new tickets
+5. Print a list of assigned tickets
+6. Print a list of completed tickets
+7. Exit the program
+Enter the option : 3
+There is no any assigned tickets.
